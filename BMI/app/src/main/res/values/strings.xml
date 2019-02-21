@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="status">status</string>
+    <string name="bmi">bmi</string>
+    <string name="wt">wt</string>
+    <string name="ht">ht</string>
+    <string name="res">res</string>
+</resources>

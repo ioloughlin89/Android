@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BMI</string>
+    <string name="action_settings">Settings</string>
+    <string name="bmi">Calculate your BMI</string>
+    <string name="wt">Your weight in Kg</string>
+    <string name="ht">Your height in Meter</string>
+    <string name="res">Your BMI is:</string>
+    <string name="status">status</string>
+    <string name="normal">NORMAL</string>
+    <string name="weak">WEAK</string>
+    <string name="Obesity">OBESITY</string>
+    
+
+</resources>
